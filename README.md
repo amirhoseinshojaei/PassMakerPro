@@ -12,4 +12,4 @@ Password Generator is a Python-based tool designed to create random and secure p
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepository.git
+   git clone https://github.com/amirhoseinshojaei/PassMakerPro.git
